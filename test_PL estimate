@@ -1,0 +1,1 @@
+[beta,fval]=fminsearch(@(beta)PLF(beta),[0,0,0,0]);
